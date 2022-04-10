@@ -9,6 +9,7 @@ class Fruit {
     $this->color = $color;
   }
 
+  //smdikawnifbvu
   // Methods
   function set_name($name) {
     $this->name = $name;
